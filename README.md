@@ -2,6 +2,10 @@
 
 Premium fashion marketplace frontend built with React, TypeScript, Tailwind CSS, Lucide, and Supabase.
 
+## Live site
+
+[Open the live storefront](https://prernaingale501-bit.github.io/colabafs/)
+
 ## Run locally
 
 1. Install dependencies with `npm install`.
