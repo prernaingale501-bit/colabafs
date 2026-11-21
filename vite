@@ -1,0 +1,4 @@
+npm install
+npm install --save-dev vite
+npm run dev
+cat package.json
